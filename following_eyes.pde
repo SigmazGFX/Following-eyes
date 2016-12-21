@@ -73,7 +73,7 @@ void setup() {
 
     shadow = loadImage("data/EyesShadow.png"); //eyeshadows and mask layer
     reflection = loadImage("data/Reflection.png"); //reflection dots
-    dot = loadImage("data/logo.png"); //tracking logo
+    dot = loadImage("data/dot.png"); //tracking logo
 
     smooth();
 
